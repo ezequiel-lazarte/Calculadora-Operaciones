@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora Operaciones</string>
+    <string name="text_numero_A">0</string>
+    <string name="text_numero_B">0</string>
+    <string name="text_resultado">0</string>
+    <string name="btn_sumar">Sumar</string>
+    <string name="btn_restar">Restar</string>
+    <string name="btn_multiplicar">Multiplicar</string>
+    <string name="btn_dividir">Dividir</string>
+
+</resources>
